@@ -1,0 +1,4 @@
+#Mon Nov 20 00:24:35 IST 2023
+base.0=/Users/vanshamaggarwal/Desktop/flutter programs/qr_code_reader/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
