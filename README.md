@@ -1,6 +1,10 @@
 # QR-CODE-READER
 
-This project is a Flutter application that serves as a QR code reader. It provides a simple and intuitive interface for scanning QR codes using the device's camera. The key features include:
+This project is a Flutter application that serves as a QR code reader. It provides a simple and intuitive interface for scanning QR codes using the device's camera. 
+Link of ppt: 
+https://www.canva.com/design/DAF1dKyJk2E/eKCdWLVIznEpSOwahmqR1Q/edit?utm_content=DAF1dKyJk2E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+The key features include:
 
 ## Features
 
@@ -42,9 +46,6 @@ flutter pub get
 After successfully installing the project, you can run it using a Flutter-compatible device or emulator. Follow these steps:
 flutter run
 This will launch the application on your connected device or emulator.
-
-Screenshots
-
 
 Contributing
 Contributions are welcome! 
